@@ -1,2 +1,2 @@
-# Practica5-CompuGrafica
-Previo y Práctica 5: Modelo Jerácquico
+# Practica4-CompuGrafica
+Previo y practica 4: Modelado geométrico

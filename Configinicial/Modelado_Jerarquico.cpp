@@ -267,6 +267,10 @@ int main() {
 		 hombro += 0.18f;
 	 if (glfwGetKey(window, GLFW_KEY_F) == GLFW_PRESS)
 		 hombro -= 0.18f;
+	 if (glfwGetKey(window, GLFW_KEY_H) == GLFW_PRESS)
+		 codo += 0.18f;
+	 if (glfwGetKey(window, GLFW_KEY_Y) == GLFW_PRESS)
+		 codo -= 0.18f;
  }
 
 
